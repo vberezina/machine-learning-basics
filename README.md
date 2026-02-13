@@ -5,4 +5,6 @@
 
 1.  [Математическая статистика и первичный анализ данных](practices/LR1.ipynb) 
 
-2. [Классификация методом k-ближайших соседей (kNN)](practices/LR2.ipynb) 
+2. [Классификация методом k-ближайших соседей (kNN)](practices/LR2.ipynb)
+3. [Деревья решений (Decision Trees)](practices/LR3.ipynb)
+4. [Наивный байесовский классификатор (Naive Bayes)](practices/LR4.ipynb) 
