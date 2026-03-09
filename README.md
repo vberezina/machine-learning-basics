@@ -7,4 +7,6 @@
 
 2. [Классификация методом k-ближайших соседей (kNN)](practices/LR2.ipynb)
 3. [Деревья решений (Decision Trees)](practices/LR3.ipynb)
-4. [Наивный байесовский классификатор (Naive Bayes)](practices/LR4.ipynb) 
+4. [Наивный байесовский классификатор (Naive Bayes)](practices/LR4.ipynb)
+5. [Логистическая регрессия и градиентный спуск)](practices/LR5.ipynb)
+6. [Линейная регрессия](practices/LR6.ipynb) 
